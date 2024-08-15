@@ -5,9 +5,11 @@ import (
 	"io"
 	"net/http"
 	"os"
+
+	"github.com/vipulvpatil/fplpodcast/internal/model"
 )
 
-func DownloadPodcastEpisode(episode Episode) error {
+func DownloadPodcastEpisode(episode model.Episode) error {
 	fmt.Println("start downloading podcast: ", episode.Title)
 	filepath := pathFor(episode.Title)
 	if _, err := os.Stat(filepath); err == nil {

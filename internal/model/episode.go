@@ -1,4 +1,4 @@
-package downloader
+package model
 
 type Episode struct {
 	AudioUrl string
