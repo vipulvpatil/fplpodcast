@@ -7,19 +7,21 @@ import (
 	"os"
 )
 
-const AUDIO_URL = "https://audioboom.com/posts/8555343.mp3?modified=1723551853&amp;sid=5001585&amp;source=rss"
-const FILE_PATH = "S7 Ep4: FPL Pod: Finalising our Gameweek 1 team"
-
-func DownloadPodcast() error {
-	fmt.Println("start downloading podcast")
-	out, err := os.Create(fmt.Sprintf("internal/files/audio/%s.mp3", FILE_PATH))
+func DownloadPodcastEpisode(episode Episode) error {
+	fmt.Println("start downloading podcast: ", episode.Title)
+	filepath := pathFor(episode.Title)
+	if _, err := os.Stat(filepath); err == nil {
+		fmt.Println("podcast already exists")
+		return nil
+	}
+	out, err := os.Create(filepath)
 	if err != nil {
 		return err
 	}
 	defer out.Close()
 
 	// Get the data
-	resp, err := http.Get(AUDIO_URL)
+	resp, err := http.Get(episode.AudioUrl)
 	if err != nil {
 		return err
 	}
@@ -36,5 +38,11 @@ func DownloadPodcast() error {
 		return err
 	}
 
+	fmt.Println("podcast downloaded: ", episode.Title)
+
 	return nil
+}
+
+func pathFor(filename string) string {
+	return fmt.Sprintf("internal/files/audio/%s.mp3", filename)
 }
