@@ -2,9 +2,11 @@ package main
 
 import (
 	"fmt"
+	"os"
 
 	"github.com/vipulvpatil/fplpodcast/internal/downloader"
 	"github.com/vipulvpatil/fplpodcast/internal/model"
+	"github.com/vipulvpatil/fplpodcast/internal/transcriber"
 )
 
 const AUDIO_URL = "https://audioboom.com/posts/8555343.mp3?modified=1723551853&amp;sid=5001585&amp;source=rss"
@@ -19,5 +21,15 @@ func main() {
 	err := downloader.DownloadPodcastEpisode(episode)
 	if err != nil {
 		fmt.Println(err)
+		return
 	}
+
+	file := transcriber.GetTranscripionFilepath(episode.Title)
+	transcriptionText, err := os.ReadFile(file)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	fmt.Println(string(transcriptionText))
 }

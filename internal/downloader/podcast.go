@@ -6,12 +6,13 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/vipulvpatil/fplpodcast/internal/files"
 	"github.com/vipulvpatil/fplpodcast/internal/model"
 )
 
 func DownloadPodcastEpisode(episode model.Episode) error {
 	fmt.Println("start downloading podcast: ", episode.Title)
-	filepath := pathFor(episode.Title)
+	filepath := files.PathForAudioFile(episode.Title)
 	if _, err := os.Stat(filepath); err == nil {
 		fmt.Println("podcast already exists")
 		return nil
@@ -43,8 +44,4 @@ func DownloadPodcastEpisode(episode model.Episode) error {
 	fmt.Println("podcast downloaded: ", episode.Title)
 
 	return nil
-}
-
-func pathFor(filename string) string {
-	return fmt.Sprintf("internal/files/audio/%s.mp3", filename)
 }
