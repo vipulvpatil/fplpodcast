@@ -1,0 +1,216 @@
+{
+  "players": [
+    {
+      "name": "Dominic Solanke",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "If you can have Spurs's number nine for seven and a half million, by the way, we're talking about Dominick Solanke."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Before it was officially announced he was in my team... the perfect third forward."
+        }
+      ],
+      "tags": [
+        "top"
+      ]
+    },
+    {
+      "name": "Oscar Bob",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "We saw, I think again, a very good Oscar Bob, which we've mentioned already in our first three shows."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Oscar Bob did continue to impress again... he's got two goals and three assists in that time."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "I still think he will start game week one."
+        }
+      ],
+      "tags": [
+        "recommended",
+        "enabler"
+      ]
+    },
+    {
+      "name": "Erling Haaland",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Haaland didn't score again, but he never really scores in Community Shield and yet always starts the season well."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Just because he didn't do a lot in this one doesn't worry me too much."
+        }
+      ],
+      "tags": [
+        "top"
+      ]
+    },
+    {
+      "name": "Diogo Jota",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I'm leaning towards Diogo Jota."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Jota feels like a really nice alternative and has been playing in that forward role."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "If you can't make Salah, Jota for me is the obvious kind of replacement."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ]
+    },
+    {
+      "name": "Marcus Rashford",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Rashford... missed some chances... I was quite disappointed with him."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Rashford was getting in the right places, doing the right things, and then just not finishing any of them."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ]
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Garnacho is the one value in that team that I think he's going to deliver."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "I was convinced by Garnacho enough to bring him back into the squad."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ]
+    },
+    {
+      "name": "Diogo Jota",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think if you decide no Salah, you can try like Sam and try to make it work."
+        },
+        {
+          "speaker": "Kelly Somers",
+          "text": "Him being fit at the start of the season suggests he's a valuable pick."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I think Jota will be a good option."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ]
+    },
+    {
+      "name": "Salah",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think you need a Liverpool player, whatever that is."
+        },
+        {
+          "speaker": "Kelly Somers",
+          "text": "I'm struggling to get my Salah in."
+        }
+      ],
+      "tags": [
+        "top"
+      ]
+    },
+    {
+      "name": "Jared Bowen",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Bowen went a little bit under the radar last season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ]
+    },
+    {
+      "name": "Eberechi Eze",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Eze is still really good value."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think there's good value there."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "attack": [
+        "Dominic Solanke",
+        "Erling Haaland"
+      ],
+      "defense": [
+        "Oscar Bob",
+        "Garnacho"
+      ],
+      "goalkeepers": [
+        "Henderson",
+        "Flecken"
+      ],
+      "midfield": [
+        "Diogo Jota",
+        "Eberechi Eze",
+        "Saka"
+      ],
+      "owner": "Sam Bonfield"
+    },
+    {
+      "attack": [
+        "Erling Haaland",
+        "Diogo Jota"
+      ],
+      "defense": [
+        "Vardiol",
+        "Pedro Porro",
+        "Saliba"
+      ],
+      "goalkeepers": [
+        "Flecken",
+        "Areola"
+      ],
+      "midfield": [
+        "Saka",
+        "Kudos",
+        "Garnacho"
+      ],
+      "owner": "Julien Laurens"
+    }
+  ]
+}
