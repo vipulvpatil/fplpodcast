@@ -27,14 +27,14 @@ func main() {
 		return
 	}
 
-	file := transcriber.GetTranscripionFilepath(episode.Title)
+	file := transcriber.GetTranscripionFilepath(episode.Filename())
 	transcriptionText, err := os.ReadFile(file)
 	if err != nil {
 		fmt.Println(err)
 		return
 	}
 
-	analysisFilepath := files.PathForAnalysisFile(episode.Title)
+	analysisFilepath := files.PathForAnalysisFile(episode.Filename())
 	_, err = os.Stat(analysisFilepath)
 	if err == nil {
 		fmt.Println("Analysis file exists: ", analysisFilepath)

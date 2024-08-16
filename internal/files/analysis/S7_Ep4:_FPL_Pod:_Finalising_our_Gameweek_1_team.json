@@ -1,0 +1,221 @@
+{
+  "players": [
+    {
+      "name": "Solanke",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "If you can have the Spurs number nine for seven and a half million, it's the perfect third forward."
+        },
+        {
+          "speaker": "Kelly Somers",
+          "text": "We've got a personal interest in the podcast and it does feel like a template front three is forming."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Solanke"
+    },
+    {
+      "name": "Oscar Bob",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Oscar Bob has been excellent in preseason and should get the nod for game week one."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Oscar Bob has played 92% of the minutes in preseason, scoring two goals and providing three assists."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Bob"
+    },
+    {
+      "name": "Haaland",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I'm not worried about Haaland even though he didn't score in the Community Shield."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Haaland has a great record in the opening games of previous seasons."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Haaland"
+    },
+    {
+      "name": "Garnacho",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Garnacho looks like United's biggest threat going forward."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Garnacho is priced well and should start, making him a good investment."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Garnacho"
+    },
+    {
+      "name": "Salah",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "It’s either Salah or bust for my team right now."
+        },
+        {
+          "speaker": "Kelly Somers",
+          "text": "It's a struggle for many of us to fit Salah into the team."
+        }
+      ],
+      "tags": [
+        "non-recommnded"
+      ],
+      "web_name": "M.Salah"
+    },
+    {
+      "name": "Jota",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Diogo Jota is looking like a really nice alternative if you can't fit Salah into your budget."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Jota is a top option for Liverpool with a good fixture and solid form."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Jota"
+    },
+    {
+      "name": "Eze",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Eze will be talismanic for Palace this season without Alise."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Eze is still a viable option as he is expected to shoulder more responsibilities this season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Eze"
+    },
+    {
+      "name": "Rashford",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I was not convinced by Rashford's performance, he missed key chances."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Rashford is priced well, but on watch for now due to poor finishing."
+        }
+      ],
+      "tags": [
+        "non-recommnded"
+      ],
+      "web_name": "Rashford"
+    },
+    {
+      "name": "Isak",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Isak is looking like a strong captain option for the opening games."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Isak could be a solid pick due to his finished form."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Isak"
+    },
+    {
+      "name": "Smith Rowe",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I believe Smith Rowe will be a good pick due to his prior performance at Arsenal."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Smith Rowe looks promising at Fulham with low ownership."
+        }
+      ],
+      "tags": [
+        "budget"
+      ],
+      "web_name": "Smith Rowe"
+    }
+  ],
+  "teams": [
+    {
+      "attack": [
+        "Haaland",
+        "Isak",
+        "Solanke",
+        "Garnacho"
+      ],
+      "defense": [
+        "Barco",
+        "Saliba",
+        "Konsa",
+        "Davis"
+      ],
+      "goalkeepers": [
+        "Flecken",
+        "Areola"
+      ],
+      "midfield": [
+        "Saka",
+        "Eze",
+        "Jota"
+      ],
+      "owner": "Sam Bonfield"
+    },
+    {
+      "attack": [
+        "Solanke",
+        "Haaland",
+        "Isak"
+      ],
+      "defense": [
+        "Vardiol",
+        "Saliba",
+        "Poirot"
+      ],
+      "goalkeepers": [
+        "Henderson"
+      ],
+      "midfield": [
+        "Saka",
+        "Jota",
+        "Garnacho"
+      ],
+      "owner": "Julien Laurens"
+    }
+  ]
+}

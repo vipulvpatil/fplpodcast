@@ -12,7 +12,7 @@ import (
 
 func DownloadPodcastEpisode(episode model.Episode) error {
 	fmt.Println("start downloading podcast: ", episode.Title)
-	filepath := files.PathForAudioFile(episode.Title)
+	filepath := files.PathForAudioFile(episode.Filename())
 	if _, err := os.Stat(filepath); err == nil {
 		fmt.Println("podcast already exists")
 		return nil

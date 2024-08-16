@@ -21,6 +21,9 @@ var responseFormat = ai.ChatCompletionResponseFormat{
 							"name": jsonschema.Definition{
 								Type: jsonschema.String,
 							},
+							"web_name": jsonschema.Definition{
+								Type: jsonschema.String,
+							},
 							"tags": jsonschema.Definition{
 								Type: jsonschema.Array,
 								Items: &jsonschema.Definition{
@@ -44,7 +47,7 @@ var responseFormat = ai.ChatCompletionResponseFormat{
 								},
 							},
 						},
-						Required:             []string{"name", "tags", "summary"},
+						Required:             []string{"name", "web_name", "tags", "summary"},
 						AdditionalProperties: false,
 					},
 				},
