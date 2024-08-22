@@ -7,12 +7,12 @@ tags = {
 	"top": "players who are a must have", 
 	"recommended": "players who are recommended", 
 	"budget": "low cost players who are recommended",
-	"non-recommnded": "players who are not recommended"
+	"avoid": "players who are not recommended"
 }
 
 Identify every player mentioned in the transcript by their "web_name" as provided in the player list.
 For each player, provide a summary of the views of individual speakers.
-Also tag players using above mentioned tags. 
+Also tag players using one or more of the above mentioned tags. 
 Provide output as json using schema provided.
 Transcript starts here.
 `
