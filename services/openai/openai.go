@@ -20,7 +20,7 @@ func GetAnalysis(transcript string) (string, error) {
 
 	req := ai.ChatCompletionRequest{
 		Model:       ai.GPT4oMini,
-		Temperature: 1,
+		Temperature: 0,
 		MaxTokens:   16383,
 		TopP:        1,
 		Messages: []ai.ChatCompletionMessage{

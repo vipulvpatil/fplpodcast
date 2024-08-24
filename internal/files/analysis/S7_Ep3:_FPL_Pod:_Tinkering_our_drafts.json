@@ -1,0 +1,271 @@
+{
+  "players": [
+    {
+      "name": "Haaland",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think it's a massive risk not to have Haaland because he's been on great form this summer."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "But I just can't see me using that other draft."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Haaland"
+    },
+    {
+      "name": "Salah",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I'm very certain that that's what I'm gonna do. So I do have... two drafts, the one that has Salah, which is the one that I'm currently on."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "But there's other options that can also be very good under Arnold slot from Darwin to Luis Diaz to Jones and Sobos, Lai and Elliott in midfield."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "M.Salah"
+    },
+    {
+      "name": "Darwin",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I was thinking about Darwin and had Darwin in, but Darwin is a bit in and out. Really."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "...I've had drafts of my team where I've had Subozli in there. I've got a draft that I've got Jota in instead I've got..."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Darwin"
+    },
+    {
+      "name": "Jota",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I would love to go for Jota. I've had some great times... not literally with Jota."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "...after Salah, personally I would go for Elliott as the."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Jota"
+    },
+    {
+      "name": "Elliott",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think Elliott, especially against Arsenal was outstanding."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Yeah, I'd like to sit here, Kells, and say, oh yeah, you can definitely go with that. But in my view, I think he's one of the players that feels pretty key to have."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Elliott"
+    },
+    {
+      "name": "Isak",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "...I would say Watkins maybe, obviously."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I have Isak and Watkins, so that's the one that I'm looking for."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Isak"
+    },
+    {
+      "name": "Watkins",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I would say Watkins maybe, obviously."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "...I just think that, like, in my mind, I agree on all of those three being great picks."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Watkins"
+    },
+    {
+      "name": "Timber",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think, it's just not like me going into the game and, you know, costing 4 million, I get that."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "J.Timber"
+    },
+    {
+      "name": "Mateta",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Jean Philippe Mateta has been an absolute star for France in the quarterfinal and semi final."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Mateta"
+    },
+    {
+      "name": "Foden",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "But I also think a shout out to Dean Henderson in Crystal Palace."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "...I was just thinking that he's a really good player."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Foden"
+    },
+    {
+      "name": "Palmer",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "...He's also quite old now and so there's a few, there's a pros and cons, no doubt."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "...he's had a fantastic preseason..."
+        }
+      ],
+      "tags": [
+        "avoid"
+      ],
+      "web_name": "N.Jackson"
+    },
+    {
+      "name": "Buendia",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He might have to go as part of my sacrifice to get Salah in."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Buendia"
+    }
+  ],
+  "teams": [
+    {
+      "attack": [
+        "Haaland",
+        "Salah",
+        "Isak",
+        "Watkins",
+        "Darwin",
+        "Jota"
+      ],
+      "defense": [
+        "Gabriel",
+        "Saliba",
+        "Vardial"
+      ],
+      "goalkeepers": [
+        "Ramsdale",
+        "Raya",
+        "Leno",
+        "Flecken"
+      ],
+      "midfield": [
+        "Salah",
+        "Elliott",
+        "Jota",
+        "Foden",
+        "Mateta",
+        "Palmer",
+        "Havertz"
+      ],
+      "owner": "Jules"
+    },
+    {
+      "attack": [
+        "Salah",
+        "Darwin",
+        "Isak",
+        "Watkins"
+      ],
+      "defense": [
+        "Ramsdale",
+        "Raya",
+        "Leno"
+      ],
+      "goalkeepers": [
+        "Alisson",
+        "Henderson"
+      ],
+      "midfield": [
+        "Eze",
+        "Palmer",
+        "Foden"
+      ],
+      "owner": "Sam"
+    },
+    {
+      "attack": [
+        "Salah",
+        "Haaland",
+        "Isak",
+        "Watkins"
+      ],
+      "defense": [
+        "Flecken"
+      ],
+      "goalkeepers": [
+        "Leno"
+      ],
+      "midfield": [
+        "Elliott",
+        "Jota"
+      ],
+      "owner": "Kelly"
+    }
+  ]
+}

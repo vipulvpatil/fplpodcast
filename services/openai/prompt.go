@@ -12,7 +12,7 @@ tags = {
 }
 
 Identify every player mentioned in the transcript by their "web_name" as provided in the player list.
-For each player, provide a summary of the views of individual speakers.
+For each player, provide a summary of the views of individual speakers, if any.
 Also tag each players with one or more of the above mentioned tags. Default to unsure.
 Provide output as json using schema provided.
 Transcript starts here.

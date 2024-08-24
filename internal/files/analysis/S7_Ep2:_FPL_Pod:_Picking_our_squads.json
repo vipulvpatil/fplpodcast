@@ -1,0 +1,254 @@
+{
+  "players": [
+    {
+      "name": "Raya",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think Raya will be a set and forget goalkeeper."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I'm gonna go for Raya as a set and forget goalkeeper."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Raya"
+    },
+    {
+      "name": "Saliba",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I've got Saliba, the king of kings."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I've kept Saliba in my team."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Saliba"
+    },
+    {
+      "name": "Arreola",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I've got Arreola and Flecken as my goalkeepers."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Areola was very good and efficient in terms of saves and save points last season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Arreola"
+    },
+    {
+      "name": "Flecken",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "My goalkeepers are Flecken and Areola."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I think I'm going to keep Flecken in my team."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Flecken"
+    },
+    {
+      "name": "Odegaard",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "If you can't make it work with Saka, Odegaard is still a very good option."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Ødegaard"
+    },
+    {
+      "name": "Havertz",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I've currently got Havertz in with Haaland and Isak as my forwards."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think Havertz is a really good shout."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Havertz"
+    },
+    {
+      "name": "Konsa",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I had Konza in my team."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Konsa is a guaranteed starter."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Konsa"
+    },
+    {
+      "name": "Madsen",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I want Madsen more than Konsa."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Madsen"
+    },
+    {
+      "name": "Geahy",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I had Mark Gehy in my team."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Geahy"
+    },
+    {
+      "name": "Winks",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I've got Harry Winks in the fifth midfielder spot."
+        }
+      ],
+      "tags": [
+        "budget"
+      ],
+      "web_name": "Winks"
+    },
+    {
+      "name": "Saka",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I have bukayo Saka mainly because I thought Jules would make me feel terrible if I didn't."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Saka"
+    },
+    {
+      "name": "Isak",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "My forwards are Haaland, Isak and Muniz."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Isak could be a good option."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Isak"
+    },
+    {
+      "name": "Harry Wilson",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Harry Wilson is a good option."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Wilson"
+    },
+    {
+      "name": "Luis Diaz",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Luis Diaz is a good option."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Luis Díaz"
+    },
+    {
+      "name": "Mudryk",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Mudryk could be a good option."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Mudryk"
+    },
+    {
+      "name": "Alison Ramses Becker",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Alison is an excellent goalkeeper."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "A.Becker"
+    },
+    {
+      "name": "Alexander-Arnold",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Alexander-Arnold is a good pick."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Alexander-Arnold"
+    }
+  ],
+  "teams": []
+}
