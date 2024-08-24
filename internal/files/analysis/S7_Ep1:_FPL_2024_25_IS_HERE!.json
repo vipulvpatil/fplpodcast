@@ -1,0 +1,3463 @@
+{
+  "players": [
+    {
+      "name": "Fábio Vieira",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Almost 60 days after it all ended, FPL is live again."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Fábio Vieira"
+    },
+    {
+      "name": "G.Jesus",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "You can not start the season without Haaland in your team."
+        }
+      ],
+      "tags": [
+        "avoid"
+      ],
+      "web_name": "G.Jesus"
+    },
+    {
+      "name": "Gabriel",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I think a lot of Gabrielle owners will likely now move on to Saliba because they're starting this season at the same price."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "I have to say Saliba has to be there even at 6 million."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Gabriel"
+    },
+    {
+      "name": "Havertz",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "If you're going to have those expensive attacking players..."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Havertz"
+    },
+    {
+      "name": "Hein",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I have to say, this time was maybe the hardest since I started playing the game."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hein"
+    },
+    {
+      "name": "J.Timber",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "We've always really felt like we could have a Haaland and a Salah and then somebody else of that nature."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "J.Timber"
+    },
+    {
+      "name": "Jorginho",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "You just cannot have him."
+        }
+      ],
+      "tags": [
+        "avoid"
+      ],
+      "web_name": "Jorginho"
+    },
+    {
+      "name": "Kiwior",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "And if you're not going with Haaland, you can have three premium midfielders."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kiwior"
+    },
+    {
+      "name": "Martinelli",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "When you have a good season, especially for Cole Palmer..."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Martinelli"
+    },
+    {
+      "name": "Nelson",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Now, if you save five transfers going into a wildcard, you can make one change."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Nelson"
+    },
+    {
+      "name": "Nketiah",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "A lot of the managers had the same players."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Maybe two or three..."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Nketiah"
+    },
+    {
+      "name": "Ødegaard",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "This season it's harder because if you're going to have those expensive attacking players..."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "The ownership across the game will be lower."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Ødegaard"
+    },
+    {
+      "name": "Ramsdale",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "This season is very different from the previous ones."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ramsdale"
+    },
+    {
+      "name": "Raya",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Looking at the changes to the game is..."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Raya"
+    },
+    {
+      "name": "Rice",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Now that David Moyes is gone, West Ham are going to play a bit more attacking football."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Rice"
+    },
+    {
+      "name": "Saka",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "For me, Saka has to be there."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He's just played virtually every minute at the euros for England."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Saka"
+    },
+    {
+      "name": "Saliba",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Saliba for me has to be there even at 6 million."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Saliba"
+    },
+    {
+      "name": "Thomas",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I've got my strategy with using premium players..."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Thomas"
+    },
+    {
+      "name": "Tierney",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I hope Tierney is going to play a big role."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Tierney"
+    },
+    {
+      "name": "Tomiyasu",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I could see myself with multiple drafts."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Tomiyasu"
+    },
+    {
+      "name": "Trossard",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I think it's really exciting."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Trossard"
+    },
+    {
+      "name": "White",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "That could influence how you build your draft."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "White"
+    },
+    {
+      "name": "Zinchenko",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Does that mean Zinchenko will play?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Zinchenko"
+    },
+    {
+      "name": "Calafiori",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Some of those players in the 4.5 million bracket are very interesting."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Calafiori"
+    },
+    {
+      "name": "Lewis-Skelly",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "His price hasn't changed but..."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Lewis-Skelly"
+    },
+    {
+      "name": "Alex Moreno",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could be of tremendous value."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Alex Moreno"
+    },
+    {
+      "name": "Archer",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I think a lot of people will end up going for cheaper options."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Depends on your strategy."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Archer"
+    },
+    {
+      "name": "Bailey",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "We might struggle to find enough funds to fit in everyone."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Bailey"
+    },
+    {
+      "name": "Barkley",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Will he get enough minutes under the new manager?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Barkley"
+    },
+    {
+      "name": "Barrenechea",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "A lot of buying in the transfer market could impact those cheap players."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "But if they also want to play attacking football, that weakens your squad."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Barrenechea"
+    },
+    {
+      "name": "Buendia",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I like the fact that he is proving himself."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Perhaps we need to wait for preseason."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Buendia"
+    },
+    {
+      "name": "Cash",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "With all of the new transfers lined up, who will make the starting XI?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Cash"
+    },
+    {
+      "name": "Dendoncker",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He could be of use in FPL."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Depends on the lineup."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Dendoncker"
+    },
+    {
+      "name": "Diaby",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Players like Diaby are interesting buys."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Diaby"
+    },
+    {
+      "name": "Diego Carlos",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "How many minutes will he get?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Diego Carlos"
+    },
+    {
+      "name": "Digne",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Great option to have."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Digne"
+    },
+    {
+      "name": "Dobbin",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Some interesting picks in midfield."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Dobbin"
+    },
+    {
+      "name": "Duran",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Moving teams can impact will get starts."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Duran"
+    },
+    {
+      "name": "Gauci",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could he break into the starting eleven?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Gauci"
+    },
+    {
+      "name": "Hause",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Defensive slots might be harder to fill."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hause"
+    },
+    {
+      "name": "Iling Jr",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "That might change the draft entirely."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Iling Jr"
+    },
+    {
+      "name": "Kamara",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Is he going to be a necessary buy?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kamara"
+    },
+    {
+      "name": "Kesler-Hayden",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "We should keep an eye on him during preseason."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kesler-Hayden"
+    },
+    {
+      "name": "Konsa",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Konsa is among some of the best players costing 4.5s."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "He also has good fixtures."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Konsa"
+    },
+    {
+      "name": "Maatsen",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Another transition could mean greater chances."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "If he stays in the consonant lineup."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Maatsen"
+    },
+    {
+      "name": "Marschall",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Looking at defenders like him at good prices could be a great strategy."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Marschall"
+    },
+    {
+      "name": "Martinez",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "It's going to be interesting how the back line supports him."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "He had a good showing last season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Martinez"
+    },
+    {
+      "name": "McGinn",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Midfielder slots are getting interesting."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "McGinn"
+    },
+    {
+      "name": "Mings",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "How valuable could he really be?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Mings"
+    },
+    {
+      "name": "Nedeljkovic",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Could he be vital if he gets defending duties?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Nedeljkovic"
+    },
+    {
+      "name": "Olsen",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Gauging where their performances lead can help inform choices."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Olsen"
+    },
+    {
+      "name": "Pau",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Some might argue his transfer value has increased."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Pau"
+    },
+    {
+      "name": "Ramsey",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "We only need to find the right price points."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ramsey"
+    },
+    {
+      "name": "Rogers",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Midfielders with value are always a plus."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Rogers"
+    },
+    {
+      "name": "Sinisalo",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Exploration of options could change how we prepare."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Sinisalo"
+    },
+    {
+      "name": "Sousa",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He needs to be treated well in his new placement or he could face competition."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Sousa"
+    },
+    {
+      "name": "Tielemans",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He surprisingly left Leicester but guarantees some very interesting upside."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Tielemans"
+    },
+    {
+      "name": "Watkins",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Villa are going to look really interesting this season."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "His price point could make him very valuable."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Watkins"
+    },
+    {
+      "name": "Zabarnyi",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "So much is up in the air right now."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Zabarnyi"
+    },
+    {
+      "name": "Aarons",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Finding players in the budget area takes work."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Aarons"
+    },
+    {
+      "name": "Adams",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Some may appreciate this move in a new squad."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Adams"
+    },
+    {
+      "name": "Anthony",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He returns now from injury and could be more solid."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Anthony"
+    },
+    {
+      "name": "Brooks",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He has performed well last season in the left wing."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Brooks"
+    },
+    {
+      "name": "Christie",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Depends if he can elevate back to the level he previously was."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Christie"
+    },
+    {
+      "name": "Cook",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He is an established player and merit will dictate his inclusion."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Cook"
+    },
+    {
+      "name": "Enes Ünal",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "His price has slightly increased but interest remains."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Enes Ünal"
+    },
+    {
+      "name": "Faivre",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His performances might be important in midfield bargains."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Faivre"
+    },
+    {
+      "name": "Hill",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Deciding on cheaper players is crucial."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hill"
+    },
+    {
+      "name": "Jebbison",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Valuing players differently is pivotal this season."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Jebbison"
+    },
+    {
+      "name": "Kerkez",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Expect to see his influence in a forward role."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Kerkez"
+    },
+    {
+      "name": "Kluivert",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He'd be a solid investment if he transitions well."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kluivert"
+    },
+    {
+      "name": "Mepham",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "There are options available that will entice players."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Mepham"
+    },
+    {
+      "name": "Neto",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Neto could feature more as a forward."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Neto"
+    },
+    {
+      "name": "O.Dango",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He has joined discussions but needs assessing."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "O.Dango"
+    },
+    {
+      "name": "Billing",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His game impact still can be evaluated."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Billing"
+    },
+    {
+      "name": "Scott",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "New players impact the dynamics but he still needs assessment."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Scott"
+    },
+    {
+      "name": "Semenyo",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He adds potential to the mix this season."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Semenyo"
+    },
+    {
+      "name": "Senesi",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "New signings to a mixed top forward situation could change."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Senesi"
+    },
+    {
+      "name": "Sinisterra",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He has struggled but could find his footing."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Sinisterra"
+    },
+    {
+      "name": "Smith",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Some options seem solid for cheap forwards."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Smith"
+    },
+    {
+      "name": "Tavernier",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He might have some fixture issues but holds promise."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Tavernier"
+    },
+    {
+      "name": "Travers",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "We're unsure how they'll transition into this season."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Travers"
+    },
+    {
+      "name": "Ayari",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Should avoid overloading midfield with unpredictable choices."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ayari"
+    },
+    {
+      "name": "Moran",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "His form will dictate how well he'll perform for his squad."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Moran"
+    },
+    {
+      "name": "Andrey Santos",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Can impact squad dynamics."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Andrey Santos"
+    },
+    {
+      "name": "Ângelo",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "A risk but potentially useful."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ângelo"
+    },
+    {
+      "name": "Arrizabalaga",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Chelsea's changing dynamics can impact player roles."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Arrizabalaga"
+    },
+    {
+      "name": "B.Badiashile",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Was very instrumental last year and could be relied on."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "B.Badiashile"
+    },
+    {
+      "name": "Bergström",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Can work well on the defensive side of things."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Bergström"
+    },
+    {
+      "name": "Bettinelli",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "May fluctuate as Chelsea's defensive lineup develops."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Bettinelli"
+    },
+    {
+      "name": "Broja",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Solid rebounds required for him to be impactful."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Broja"
+    },
+    {
+      "name": "Caicedo",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "I'm excited to see how he fits in."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Caicedo"
+    },
+    {
+      "name": "Casadei",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Potential for him to move up the lineup is high."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Casadei"
+    },
+    {
+      "name": "Chalobah",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Depending on his minutes, can bring value."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Chalobah"
+    },
+    {
+      "name": "Chilwell",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could chance his value due to performance consistency."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Chilwell"
+    },
+    {
+      "name": "Chukwuemeka",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The substantial depth at Chelsea can lead to fierce competition."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Chukwuemeka"
+    },
+    {
+      "name": "Colwill",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "An interesting pick to consider depending on form."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Colwill"
+    },
+    {
+      "name": "Cucurella",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The competitive nature of Chelsea's defense can hinder starts."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Cucurella"
+    },
+    {
+      "name": "D.D.Fofana",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Stressing his performance will be crucial."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "D.D.Fofana"
+    },
+    {
+      "name": "Deivid",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The price fits nicely but competition is fierce."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Deivid"
+    },
+    {
+      "name": "Dewsbury-Hall",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Valuable for fixtures; keep an eye out."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Dewsbury-Hall"
+    },
+    {
+      "name": "Disasi",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Enjoying the new hires certainly helps."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Disasi"
+    },
+    {
+      "name": "Ederson M.",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He is a consistent performer."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Ederson M."
+    },
+    {
+      "name": "Foden",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He is a definite own in the midfield slots."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Foden"
+    },
+    {
+      "name": "Grealish",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "An interesting option if he plays regularly."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Grealish"
+    },
+    {
+      "name": "Gvardiol",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The role he plays could be pivotal."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Gvardiol"
+    },
+    {
+      "name": "Haaland",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The most expensive player in FPL history."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "You just cannot have him."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Haaland"
+    },
+    {
+      "name": "J.Alvarez",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "There are few concerns regarding playing time."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "J.Alvarez"
+    },
+    {
+      "name": "João Cancelo",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could have been a leading option in past seasons."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "João Cancelo"
+    },
+    {
+      "name": "Kovačić",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Undoubtedly he is a valuable asset."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Kovačić"
+    },
+    {
+      "name": "Lewis",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He fits nicely in and could elevate performance."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Lewis"
+    },
+    {
+      "name": "Matheus N.",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "His position could vary depending on performance."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Matheus N."
+    },
+    {
+      "name": "McAtee",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He has some good potential in the forward slots."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Just make sure he gets regular minutes."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "McAtee"
+    },
+    {
+      "name": "Ortega Moreno",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His value is apparent if short on cash."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Ortega Moreno"
+    },
+    {
+      "name": "Phillips",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Depends on the long-term strategy."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Phillips"
+    },
+    {
+      "name": "Rodrigo",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Overloading only works if you have balance."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Rodrigo"
+    },
+    {
+      "name": "Rúben",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He proved last season that he can perform."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Rúben"
+    },
+    {
+      "name": "Stones",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "His role is pivotal and needs evaluation."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Stones"
+    },
+    {
+      "name": "Walker",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He fits the industry standard, in my opinion."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Walker"
+    },
+    {
+      "name": "Sávio",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He should feature prominently in the lineup."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Sávio"
+    },
+    {
+      "name": "Amad",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His return could warrant interesting discussions."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Amad"
+    },
+    {
+      "name": "Antony",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He is a strong consideration this year."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Antony"
+    },
+    {
+      "name": "B.Fernandes",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could be critical to your success."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "B.Fernandes"
+    },
+    {
+      "name": "Bayindir",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Shaping his role in transfers will be important."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Bayindir"
+    },
+    {
+      "name": "Casemiro",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A consistent midfielder option as of late."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Casemiro"
+    },
+    {
+      "name": "Dalot",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Depends on how much action he gets."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Dalot"
+    },
+    {
+      "name": "Eriksen",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He remains a pivotal part of the strategy."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Eriksen"
+    },
+    {
+      "name": "Evans",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He might come in handy as a backup."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Evans"
+    },
+    {
+      "name": "Garnacho",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He can be a game-changer."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Garnacho"
+    },
+    {
+      "name": "Hannibal",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He might need to fight for his place."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hannibal"
+    },
+    {
+      "name": "Heaton",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Remains a solid choice as backup."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Heaton"
+    },
+    {
+      "name": "Højlund",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Good young prospect for the future."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Højlund"
+    },
+    {
+      "name": "Lindelof",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Valuable for defensive stats."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Lindelof"
+    },
+    {
+      "name": "Maguire",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could he regain form in a new system?"
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Maguire"
+    },
+    {
+      "name": "Mainoo",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His value is entirely about potential."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Mainoo"
+    },
+    {
+      "name": "Malacia",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Good player but needs to confirm his spot."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Malacia"
+    },
+    {
+      "name": "Martinez",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He has the potential to shine."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Martinez"
+    },
+    {
+      "name": "McTominay",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Wait until we see formation."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "McTominay"
+    },
+    {
+      "name": "Mount",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could fit the system for next season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Mount"
+    },
+    {
+      "name": "Onana",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He is a top choice for rotation."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Onana"
+    },
+    {
+      "name": "Pellistri",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Will depend on his showing at preseason."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Pellistri"
+    },
+    {
+      "name": "Rashford",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He needs to increase scoring output."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Rashford"
+    },
+    {
+      "name": "Sancho",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He might continue to build momentum this season."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Sancho"
+    },
+    {
+      "name": "Shaw",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His price point leads a lot of discussion."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Shaw"
+    },
+    {
+      "name": "Zirkzee",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Can offer good drafting options. However, the competition will be hard."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Zirkzee"
+    },
+    {
+      "name": "Yoro",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He could be one who surprises."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Yoro"
+    },
+    {
+      "name": "De Ligt",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He has a lot to prove this season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "De Ligt"
+    },
+    {
+      "name": "Mazraoui",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Backing him this season could be a wise choice."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Mazraoui"
+    },
+    {
+      "name": "A.Murphy",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Understanding the deployments on the field varies primarily."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "A.Murphy"
+    },
+    {
+      "name": "Almirón",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "We certainly hope for good output from him."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Almirón"
+    },
+    {
+      "name": "Barnes",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could build important links to other attackers."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Barnes"
+    },
+    {
+      "name": "Botman",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Outstanding performances from him could make a big difference."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Botman"
+    },
+    {
+      "name": "Bruno G.",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He looks like a strong option in the mid slots."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Bruno G."
+    },
+    {
+      "name": "Burn",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Could provide important players."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Burn"
+    },
+    {
+      "name": "Dúbravka",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Shifts in performance will be crucial as well."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Dúbravka"
+    },
+    {
+      "name": "Fraser",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Options can pivot in new directions here."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Fraser"
+    },
+    {
+      "name": "Gordon",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "One to watch as his role solidifies."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Gordon"
+    },
+    {
+      "name": "Hall",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He’ll provide some valuable depth."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Hall"
+    },
+    {
+      "name": "Hayden",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Has a chance to play a surprise role."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hayden"
+    },
+    {
+      "name": "Isak",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He holds potential after a building season."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "He should score more goals this season."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Isak"
+    },
+    {
+      "name": "Jacob Murphy",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could slot in after a solid showing."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "J.Murphy"
+    },
+    {
+      "name": "Joelinton",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He's capable of gathering some real numbers."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Joelinton"
+    },
+    {
+      "name": "Kelly",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The expectations on him will continue to grow."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "He likely needs to step up."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Kelly"
+    },
+    {
+      "name": "Krafth",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He can be an exciting choice."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Krafth"
+    },
+    {
+      "name": "Kuol",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He’s a smaller asset but gained traction."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kuol"
+    },
+    {
+      "name": "Lascelles",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I believe he'll need to prove himself."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Lascelles"
+    },
+    {
+      "name": "Lewis",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A lot is riding on his responsibility."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Lewis"
+    },
+    {
+      "name": "Longstaff",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He still has to continue elevating his game."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Longstaff"
+    },
+    {
+      "name": "Miley",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Solid player but worth tracking."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Miley"
+    },
+    {
+      "name": "Odysseas",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He'll play pivotal roles under scrutiny."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Odysseas"
+    },
+    {
+      "name": "Pope",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He should stabilize performance each week."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Pope"
+    },
+    {
+      "name": "Ruddy",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Defensive slots can be pushed back into focus."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ruddy"
+    },
+    {
+      "name": "Schär",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His development into a striker is fascinating."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Schär"
+    },
+    {
+      "name": "Targett",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I expect some shifts in his role this season."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Targett"
+    },
+    {
+      "name": "Tonali",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A strong addition to the midfield slots."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Tonali"
+    },
+    {
+      "name": "Trippier",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He has potential to evolve greatly."
+        }
+      ],
+      "tags": [
+        "isolated"
+      ],
+      "web_name": "Trippier"
+    },
+    {
+      "name": "White",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A good option in the lower range."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "White"
+    },
+    {
+      "name": "Willock",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He could potentially give competitive depth."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Willock"
+    },
+    {
+      "name": "Wilson",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He must regain his scoring touch."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Wilson"
+    },
+    {
+      "name": "Osula",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He’s definitely one to keep track of."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Osula"
+    },
+    {
+      "name": "Aina",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could take on more responsibility."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Aina"
+    },
+    {
+      "name": "Anderson",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "His ability will remain questionable."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Anderson"
+    },
+    {
+      "name": "Awoniyi",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "This is a critical year for him."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Awoniyi"
+    },
+    {
+      "name": "Choudhury",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "It’s essential to evaluate how he performs."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Choudhury"
+    },
+    {
+      "name": "Daka",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He could win minutes based on his performance."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Daka"
+    },
+    {
+      "name": "De Cordova-Reid",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Will bring tactical changes to the dynamic."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "De Cordova-Reid"
+    },
+    {
+      "name": "Faes",
+      "summary": [
+        {
+          "speaker": "Danny",
+          "text": "Capable of contributing some solid moves."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Faes"
+    },
+    {
+      "name": "Golding",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could push through a competitive season."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Golding"
+    },
+    {
+      "name": "Iversen",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Depends on performance consistency."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Iversen"
+    },
+    {
+      "name": "Justin",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Too good to overlook despite risks."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Justin"
+    },
+    {
+      "name": "Kristiansen",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He has shown real potential."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kristiansen"
+    },
+    {
+      "name": "Marçal-Madivádua",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He'll be essential to squad depth."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Marcal"
+    },
+    {
+      "name": "Mavididi",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Has remarkable potential."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Yet to see if he gains consistency."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Mavididi"
+    },
+    {
+      "name": "McAteer",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could budget allocation change substantially."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "McAteer"
+    },
+    {
+      "name": "Ndidi",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Is an engaging option as a defender."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ndidi"
+    },
+    {
+      "name": "Okoli",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could become useful when looking for valuable roles."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Okoli"
+    },
+    {
+      "name": "Pereira",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "More info on him ahead could pave scouting options."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ricardo"
+    },
+    {
+      "name": "Souttar",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His presence in competition is essential."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Souttar"
+    },
+    {
+      "name": "Stolarczyk",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "We're eager to see if he pushes for prime time."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Stolarczyk"
+    },
+    {
+      "name": "Thomas",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Provides a competitive edge when he performs."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Thomas"
+    },
+    {
+      "name": "Vardy",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Can still offer strong bursts of goalscoring."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Vardy"
+    },
+    {
+      "name": "Vestergaard",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Classic player; still needs assessing for impact."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Vestergaard"
+    },
+    {
+      "name": "Ward",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Look at the draft possibilities."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ward"
+    },
+    {
+      "name": "Winks",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "His arrival could shake things up."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Winks"
+    },
+    {
+      "name": "Yates",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He can offer some good value at budget."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Yates"
+    },
+    {
+      "name": "Milenković",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He needs to define his role."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Milenković"
+    },
+    {
+      "name": "Kudu",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "His performance could change the draft entirely."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Kudus"
+    },
+    {
+      "name": "L.Guilherme",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "A transfer impact reassessment is essential."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "It's important to look at his metrics."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "L.Guilherme"
+    },
+    {
+      "name": "L.Paquetá",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Analysing how he goes could be key."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "L.Paquetá"
+    },
+    {
+      "name": "Mavropanos",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Potential role changes could be impactful."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Mavropanos"
+    },
+    {
+      "name": "N.Aguerd",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Firmly a strong candidate for inclusion."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "N.Aguerd"
+    },
+    {
+      "name": "Ward-Prowse",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "An experienced player but recent valuation can change."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Ward-Prowse"
+    },
+    {
+      "name": "Zouma",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He'll provide security in defense this time."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Zouma"
+    },
+    {
+      "name": "Irving",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Could be interesting next season considering performances."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Irving"
+    },
+    {
+      "name": "Crysencio",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He’s highly valued but could show more."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Summerville"
+    },
+    {
+      "name": "Füllkrug",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "An unsettled player might influence his choices."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Füllkrug"
+    },
+    {
+      "name": "Todibo",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Coming in as a bottom player could afford value."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Todibo"
+    },
+    {
+      "name": "Aït-Nouri",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He poses interesting value points."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Aït-Nouri"
+    },
+    {
+      "name": "B.Traore",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Could win over the community."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "B.Traore"
+    },
+    {
+      "name": "Bellegarde",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He should slot in easily."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Bellegarde"
+    },
+    {
+      "name": "Bentley",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He’ll have a spot to fill."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Bentley"
+    },
+    {
+      "name": "Chiquinho",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He needs to put up consistent performances."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Chiquinho"
+    },
+    {
+      "name": "Chirewa",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He’ll need to carve his space amongst players."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Chirewa"
+    },
+    {
+      "name": "Chiwome",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "There's potential awaiting to be tapped."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Chiwome"
+    },
+    {
+      "name": "Cundle",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Knowing how he performs could show absolutely new strengths."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Cundle"
+    },
+    {
+      "name": "Cunha",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Performance would naturally require maximum scrutiny."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Cunha"
+    },
+    {
+      "name": "Dawson",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A breakout season is necessary for his success."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Dawson"
+    },
+    {
+      "name": "Doherty",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His squad numbers are valuable."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Doherty"
+    },
+    {
+      "name": "Doyle",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Might change their squad build depending on maturity."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Doyle"
+    },
+    {
+      "name": "Fábio Silva",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He remains a good option for those strapped for cash."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Fábio Silva"
+    },
+    {
+      "name": "Fraser",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He was previously solid and could build it back up."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Fraser"
+    },
+    {
+      "name": "Gonzalez",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The key could provide fundamental insights."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Gonzalez"
+    },
+    {
+      "name": "Guedes",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He remains valued in discussions around forwards."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Guedes"
+    },
+    {
+      "name": "H.Bueno",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Expected to slot into strengthened roles."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "H.Bueno"
+    },
+    {
+      "name": "Hee Chan",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "A strong pick for leveraging better outcomes."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Hee Chan"
+    },
+    {
+      "name": "Hodge",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He needs to re-establish patterns."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hodge"
+    },
+    {
+      "name": "Hoever",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could have better position focus for the squad's needs."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Hoever"
+    },
+    {
+      "name": "J.Gomes",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He has blended well into the overall squad."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "J.Gomes"
+    },
+    {
+      "name": "José Sá",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He’ll have a strong footing amongst starting opportunities."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "José Sá"
+    },
+    {
+      "name": "Kalajdžić",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Once he settles in, he will deliver new output."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Kalajdžić"
+    },
+    {
+      "name": "King",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could fill a strong role."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "His performance requires long-term observation."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "King"
+    },
+    {
+      "name": "Larios",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Expectations rise on what he can achieve."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Larios"
+    },
+    {
+      "name": "Lis",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Determine early if he's in the lineup."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Lis"
+    },
+    {
+      "name": "Lumley",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "His desired role can pivot."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Lumley"
+    },
+    {
+      "name": "Manning",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "Valuable players like these are a bit tricky."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Manning"
+    },
+    {
+      "name": "Mara",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He could settle in nicely."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Mara"
+    },
+    {
+      "name": "McCarthy",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He’s backed this year as a rotation."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "McCarthy"
+    },
+    {
+      "name": "Stephens",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "Looking to fill key positions on their roster."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Stephens"
+    },
+    {
+      "name": "Stewart",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Looks promising, but one to watch closely."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Stewart"
+    },
+    {
+      "name": "Sugawara",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A valuable addition to the squad."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Sugawara"
+    },
+    {
+      "name": "Taylor",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "There are a lot of interesting players to keep track."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Taylor"
+    },
+    {
+      "name": "Walker-Peters",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Could lead strong performances this season."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Walker-Peters"
+    },
+    {
+      "name": "Wood",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He faces several options and can solidify plays."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Wood"
+    },
+    {
+      "name": "Brereton Díaz",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "He has valuable scoring presence."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Brereton Díaz"
+    },
+    {
+      "name": "Solanke",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He’s particularly valuable."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Solanke"
+    }
+  ],
+  "teams": [
+    {
+      "attack": [
+        "Haaland",
+        "Saka",
+        "Salah"
+      ],
+      "defense": [
+        "Saliba",
+        "Gabriel",
+        "White"
+      ],
+      "goalkeepers": [
+        "Ramsdale",
+        "Raya"
+      ],
+      "midfield": [
+        "Foden",
+        "Palmer",
+        "Gordon"
+      ],
+      "owner": "Kelly Somers"
+    },
+    {
+      "attack": [
+        "G.Jesus",
+        "Martinez",
+        "Toney"
+      ],
+      "defense": [
+        "Zinchenko",
+        "Mings",
+        "Konsa"
+      ],
+      "goalkeepers": [
+        "Ramsdale",
+        "Ederson"
+      ],
+      "midfield": [
+        "Mount",
+        "Son",
+        "Palmer"
+      ],
+      "owner": "Julien Laurens"
+    },
+    {
+      "attack": [
+        "Daka",
+        "Isak",
+        "Wilson"
+      ],
+      "defense": [
+        "White",
+        "Saliba",
+        "Maguire"
+      ],
+      "goalkeepers": [
+        "Raya",
+        "Travers"
+      ],
+      "midfield": [
+        "Odegaard",
+        "Saka",
+        "Gordon"
+      ],
+      "owner": "Sam Bonfield"
+    }
+  ]
+}
