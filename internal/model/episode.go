@@ -8,5 +8,7 @@ type Episode struct {
 }
 
 func (e Episode) Filename() string {
-	return strings.Replace(e.Title, " ", "_", -1)
+	underscored := strings.Replace(e.Title, " ", "_", -1)
+	sanitized := strings.Replace(underscored, "/", "_", -1)
+	return sanitized
 }

@@ -5,6 +5,7 @@ import (
 	"os"
 
 	"github.com/spf13/viper"
+	"github.com/vipulvpatil/fplpodcast/internal/data"
 	"github.com/vipulvpatil/fplpodcast/internal/downloader"
 	"github.com/vipulvpatil/fplpodcast/internal/files"
 	"github.com/vipulvpatil/fplpodcast/internal/model"
@@ -12,15 +13,17 @@ import (
 	"github.com/vipulvpatil/fplpodcast/services/openai"
 )
 
-const AUDIO_URL = "https://audioboom.com/posts/8555343.mp3?modified=1723551853&amp;sid=5001585&amp;source=rss"
-const FILENAME = "S7 Ep4: FPL Pod: Finalising our Gameweek 1 team"
-
 func main() {
 	viper.AutomaticEnv()
-	episode := model.Episode{
-		AudioUrl: AUDIO_URL,
-		Title:    FILENAME,
+	episodes := data.LoadEpisodes()
+
+	for _, episode := range episodes {
+		processEpisode(episode)
 	}
+}
+
+func processEpisode(episode model.Episode) {
+	fmt.Println("main processing episode: ", episode.Title)
 	err := downloader.DownloadPodcastEpisode(episode)
 	if err != nil {
 		fmt.Println(err)

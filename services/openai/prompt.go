@@ -4,15 +4,16 @@ const PROMPT_START = `Here is the list of players. [{"name": "Fábio Ferreira Vi
 I need you to analyse the below provided transcript as follows.
 
 tags = {
-	"top": "players who are a must have", 
+	"top": "players who are a must have according", 
 	"recommended": "players who are recommended", 
 	"budget": "low cost players who are recommended",
-	"avoid": "players who are not recommended"
+	"avoid": "players who are not recommended",
+	"unsure": "players that were discussed but are neither recommended nor rejected."
 }
 
 Identify every player mentioned in the transcript by their "web_name" as provided in the player list.
 For each player, provide a summary of the views of individual speakers.
-Also tag players using one or more of the above mentioned tags. 
+Also tag each players with one or more of the above mentioned tags. Default to unsure.
 Provide output as json using schema provided.
 Transcript starts here.
 `
