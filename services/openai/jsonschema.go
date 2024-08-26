@@ -30,66 +30,19 @@ var responseFormat = ai.ChatCompletionResponseFormat{
 									Type: jsonschema.String,
 								},
 							},
-							"summary": jsonschema.Definition{
-								Type: jsonschema.Array,
-								Items: &jsonschema.Definition{
-									Type: jsonschema.Object,
-									Properties: map[string]jsonschema.Definition{
-										"text": jsonschema.Definition{
-											Type: jsonschema.String,
-										},
-										"speaker": jsonschema.Definition{
-											Type: jsonschema.String,
-										},
-									},
-									Required:             []string{"text", "speaker"},
-									AdditionalProperties: false,
-								},
-							},
-						},
-						Required:             []string{"name", "web_name", "tags", "summary"},
-						AdditionalProperties: false,
-					},
-				},
-				"teams": jsonschema.Definition{
-					Type: jsonschema.Array,
-					Items: &jsonschema.Definition{
-						Type: jsonschema.Object,
-						Properties: map[string]jsonschema.Definition{
-							"owner": jsonschema.Definition{
-								Type: jsonschema.String,
-							},
-							"goalkeepers": jsonschema.Definition{
-								Type: jsonschema.Array,
-								Items: &jsonschema.Definition{
-									Type: jsonschema.String,
-								},
-							},
-							"defense": jsonschema.Definition{
-								Type: jsonschema.Array,
-								Items: &jsonschema.Definition{
-									Type: jsonschema.String,
-								},
-							},
-							"midfield": jsonschema.Definition{
-								Type: jsonschema.Array,
-								Items: &jsonschema.Definition{
-									Type: jsonschema.String,
-								},
-							},
-							"attack": jsonschema.Definition{
+							"summaries": jsonschema.Definition{
 								Type: jsonschema.Array,
 								Items: &jsonschema.Definition{
 									Type: jsonschema.String,
 								},
 							},
 						},
-						Required:             []string{"owner", "goalkeepers", "defense", "midfield", "attack"},
+						Required:             []string{"name", "web_name", "tags", "summaries"},
 						AdditionalProperties: false,
 					},
 				},
 			},
-			Required:             []string{"players", "teams"},
+			Required:             []string{"players"},
 			AdditionalProperties: false,
 		},
 	},

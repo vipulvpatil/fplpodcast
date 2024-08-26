@@ -1,0 +1,240 @@
+{
+  "players": [
+    {
+      "name": "Jota",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "For once, we have a pretty happy FPL pod crew. After game week one, we discuss why we think Jota is an FPL gift."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Jota looked so good when he played."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "I feel like Diogo Jota is a bit of a gift in a way, because…."
+        }
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Jota"
+    },
+    {
+      "name": "Salah",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "It's always...when you take in consideration his own FPL heritage."
+        },
+        {
+          "speaker": "Kelly Somers",
+          "text": "We're having to go without you, so please don't punish us."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He's 5 million less...the way that Diogo Jota is playing."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "M.Salah"
+    },
+    {
+      "name": "Haaland",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "If you don't have Haaland, then you're likely to have Salah."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "As we said,...it's a great day out."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The most frustrating thing as an FPL manager because you can't get the player that you really want to have."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Haaland"
+    },
+    {
+      "name": "James Maddison",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "He actually impressed me against Leicester in that first half."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Madison...I thought it was really, really sharp physically too."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Maddison"
+    },
+    {
+      "name": "Pedro Porro",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "I was buzzing when I saw Pedro Porro scored."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "If you went for Salah... you were better off."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "If he's out of game week two, then I might think about selling him."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Poro"
+    },
+    {
+      "name": "Danny Welbeck",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "It's amazing to see Danny Welbeck with a performance like that."
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "Danny Welbeck...had an absolutely phenomenal game."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Welbeck"
+    },
+    {
+      "name": "Garnacho",
+      "summary": [
+        {
+          "speaker": "Julien Laurens",
+          "text": "He was really the only good thing going forward for this Manchester United team."
+        },
+        {
+          "speaker": "Kelly Somers",
+          "text": "A bit of a gift in a way."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Garnacho"
+    },
+    {
+      "name": "Ollie Watkins",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "It feels quite early to do that now."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "It's surprising to see Ollie Watkins being sold quite heavily."
+        }
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Watkins"
+    },
+    {
+      "name": "Erling Haaland",
+      "summary": [
+        {
+          "speaker": "Sam Bonfield",
+          "text": "The only way is up... if you start at the bottom."
+        },
+        {
+          "speaker": "Julien Laurens",
+          "text": "Haaland at home against Ipswich...It's a game you would expect him to score."
+        }
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Haaland"
+    },
+    {
+      "name": "Ivan Toney",
+      "summary": [
+        {
+          "speaker": "Kelly Somers",
+          "text": "It's a long old season to regret that decision for, isn't it?"
+        },
+        {
+          "speaker": "Sam Bonfield",
+          "text": "A lot of managers are looking at it potentially with a view that...I think he could be a nice pick."
+        }
+      ],
+      "tags": [
+        "avoid"
+      ],
+      "web_name": "Toney"
+    }
+  ],
+  "teams": [
+    {
+      "attack": [
+        "Jota",
+        "Salah"
+      ],
+      "defense": [
+        "Robertson",
+        "Alexander Arnold",
+        "Saliba"
+      ],
+      "goalkeepers": [
+        "Flecken"
+      ],
+      "midfield": [
+        "Madison",
+        "Garnacho"
+      ],
+      "owner": "Kelly Somers"
+    },
+    {
+      "attack": [
+        "Haaland"
+      ],
+      "defense": [],
+      "goalkeepers": [],
+      "midfield": [
+        "Porro"
+      ],
+      "owner": "Julien Laurens"
+    },
+    {
+      "attack": [
+        "Welbeck"
+      ],
+      "defense": [],
+      "goalkeepers": [],
+      "midfield": [],
+      "owner": "Sam Bonfield"
+    },
+    {
+      "attack": [],
+      "defense": [],
+      "goalkeepers": [],
+      "midfield": [
+        "Toney"
+      ],
+      "owner": "Julien Laurens"
+    }
+  ]
+}
