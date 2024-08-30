@@ -5,6 +5,10 @@ import "github.com/vipulvpatil/fplpodcast/internal/model"
 func LoadEpisodes() []model.Episode {
 	return []model.Episode{
 		{
+			Title:    "S7 Ep6: FPL Pod: Interesting forward thinking",
+			AudioUrl: "https://audioboom.com/posts/8563096.mp3?modified=1724932792&amp;sid=5001585&amp;source=rss",
+		},
+		{
 			Title:    "S7 Ep5: FPL Pod: Triple Captain in Gameweek 2?!",
 			AudioUrl: "https://audioboom.com/posts/8559774.mp3?modified=1724328394&amp;sid=5001585&amp;source=rss",
 		},
