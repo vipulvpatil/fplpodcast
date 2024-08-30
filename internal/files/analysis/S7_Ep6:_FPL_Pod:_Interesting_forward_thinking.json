@@ -1,0 +1,152 @@
+{
+  "players": [
+    {
+      "summaries": [
+        "Kelly Somers: Erling Haaland went crazy last week. None of us triple captained him, but we're still in a good mood.",
+        "Julien Laurens: It was a bold move. It was a successful move because the hat trick, although it didn't start that well.",
+        "Sam Bonfield: Best decision would have been to triple captain Haaland. He was the highest scoring triple captain ever."
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "Erling Haaland"
+    },
+    {
+      "summaries": [
+        "Kelly Somers: Not sure if Madweke can produce consistently, but great performance last week.",
+        "Julien Laurens: The problem with Madweke is consistency, he is capable of hat tricks and games where he's completely anonymous."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Noni Madueke"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Cole Palmer had a fantastic match, returning to form after a slow start."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Cole Palmer"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: I brought in Livramento hoping Newcastle defensively would be strong enough, he didn't really go according to plan.",
+        "Sam Bonfield: My backline of Saliba, Porro, and Robinson did well, but Bardiel let me down."
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Josko Gvardiol"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Isak has had a tough start, but I'm holding off to see if he bounces back.",
+        "Julien Laurens: I think at some point he will score goals, we just need to give it some time."
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Alexander Isak"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I think Olly Watkins should have scored by now, he's second for expected goals underachievers.",
+        "Julien Laurens: Watkins had a great run last season and should eventually score goals; it's just a matter of time."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Ollie Watkins"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I think Morgan Rogers is a great investment, a cheap enabler and has shown promise in the first two games."
+      ],
+      "tags": [
+        "budget",
+        "recommended"
+      ],
+      "web_name": "Morgan Rogers"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I think Emmanuel Dennis is a potential option if you're looking for budget forwards.",
+        "Julien Laurens: I feel like there's more potential in the team despite the slow start to the season."
+      ],
+      "tags": [
+        "differential"
+      ],
+      "web_name": "Emmanuel Dennis"
+    },
+    {
+      "summaries": [
+        "Kelly Somers: We're all curious about how to tackle the forward situation this season.",
+        "Julien Laurens: Only six forwards returned this game week; we need reliable strikers.",
+        "Sam Bonfield: Big attackers are performing inconsistently but should be given more chances."
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Forwards Discussion"
+    },
+    {
+      "summaries": [
+        "Kelly Somers: Villa's fixtures are changing and I'm looking to scout their players.",
+        "Sam Bonfield: I think Villa's players will start performing, especially Morgan Rogers.",
+        "Julien Laurens: Rogers has been performing well in his new role; he could be a good pick."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Morgan Rogers"
+    },
+    {
+      "summaries": [
+        "Kelly Somers: There's potential for a player like Semenyo this week; also options like Iwobi.",
+        "Sam Bonfield: I'd consider Iwobi due to his low ownership and current form.",
+        "Julien Laurens: Iwobi could be a good differential against Ipswich."
+      ],
+      "tags": [
+        "differential"
+      ],
+      "web_name": "Iwobi"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I think Solanke's injury might not keep him out for long, but we need to monitor it.",
+        "Julien Laurens: I’m hoping Solanke will be back soon, so I’m holding him."
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Dominic Solanke"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Konsa is a solid player for Villa, he could start more games now due to Cash's injury.",
+        "Sam Bonfield: Konsa is another budget option to consider in defense."
+      ],
+      "tags": [
+        "budget"
+      ],
+      "web_name": "Esri Konsa"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I like Bryan Mbeumo; he has been performing well and Southampton has been conceding.",
+        "Julien Laurens: Mbeumo is undervalued; he could be a fantastic pick this week."
+      ],
+      "tags": [
+        "differential"
+      ],
+      "web_name": "Mbeumo"
+    }
+  ],
+  "speakers": [
+    "Kelly Somers",
+    "Sam Bonfield",
+    "Julien Laurens"
+  ]
+}

@@ -12,8 +12,9 @@ I need you to analyse the below provided transcript as follows.
 // }
 
 Make a list of players discussed.
-For each player, summarise each speaker's sentiment while identifying the speaker.
 Tag the players as top, recommended, avoid, unsure or differential. Feel free to use more than one tag per player.
+Make a list of speakers.
+For each player, add the summaries from each speaker regarding the player. Make sure to start each summary with the name of the speaker.
 Output as json.
 
 Transcript starts here.

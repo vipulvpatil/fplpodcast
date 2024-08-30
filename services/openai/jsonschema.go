@@ -18,9 +18,6 @@ var responseFormat = ai.ChatCompletionResponseFormat{
 					Items: &jsonschema.Definition{
 						Type: jsonschema.Object,
 						Properties: map[string]jsonschema.Definition{
-							"name": jsonschema.Definition{
-								Type: jsonschema.String,
-							},
 							"web_name": jsonschema.Definition{
 								Type: jsonschema.String,
 							},
@@ -37,12 +34,18 @@ var responseFormat = ai.ChatCompletionResponseFormat{
 								},
 							},
 						},
-						Required:             []string{"name", "web_name", "tags", "summaries"},
+						Required:             []string{"web_name", "tags", "summaries"},
 						AdditionalProperties: false,
 					},
 				},
+				"speakers": jsonschema.Definition{
+					Type: jsonschema.Array,
+					Items: &jsonschema.Definition{
+						Type: jsonschema.String,
+					},
+				},
 			},
-			Required:             []string{"players"},
+			Required:             []string{"players", "speakers"},
 			AdditionalProperties: false,
 		},
 	},

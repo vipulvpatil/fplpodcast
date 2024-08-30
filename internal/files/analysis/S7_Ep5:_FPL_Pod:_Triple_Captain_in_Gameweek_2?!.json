@@ -1,11 +1,6 @@
 {
   "players": [
     {
-      "name": "Diogo Jota",
-      "summaries": [
-        "Sam Bonfield mentions that Jota is a great option and feels he could score well in upcoming games.",
-        "Julien Laurens agrees that Jota looked impressive and is worth having in teams."
-      ],
       "tags": [
         "top",
         "recommended"
@@ -13,130 +8,67 @@
       "web_name": "Jota"
     },
     {
-      "name": "Erling Haaland",
-      "summaries": [
-        "Sam Bonfield suggests that Haaland is the obvious choice for captaincy this week due to his form and fixture.",
-        "Julien Laurens agrees but mentions it's early in the season for a triple captaincy."
-      ],
-      "tags": [
-        "top"
-      ],
-      "web_name": "Haaland"
-    },
-    {
-      "name": "Pedro Porro",
-      "summaries": [
-        "Sam Bonfield expresses concern over Porro's injury status and discusses his attacking potential if he plays.",
-        "Julien Laurens notes that Porro had good attacking returns."
-      ],
       "tags": [
         "unsure",
         "recommended"
       ],
-      "web_name": "Porro"
+      "web_name": "Pedro Porro"
     },
     {
-      "name": "Isak",
-      "summaries": [
-        "Sam Bonfield believes Isak could be a good captaincy option against Bournemouth in the next fixtures.",
-        "Julien Laurens agrees but cautions about Newcastle's overall performance."
-      ],
       "tags": [
+        "top"
+      ],
+      "web_name": "Salah"
+    },
+    {
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Erling Haaland"
+    },
+    {
+      "tags": [
+        "recommended",
+        "differential"
+      ],
+      "web_name": "Danny Welbeck"
+    },
+    {
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Jamie Vardy"
+    },
+    {
+      "tags": [
+        "differential"
+      ],
+      "web_name": "James Maddison"
+    },
+    {
+      "tags": [
+        "differential",
         "recommended"
       ],
       "web_name": "Isak"
     },
     {
-      "name": "Garnacho",
-      "summaries": [
-        "Julien Laurens discusses Garnacho coming off the bench and contributing, indicating that he will start going forward.",
-        "Kelly Somers expresses surprise at his return and suggests he is a valuable FPL asset."
-      ],
       "tags": [
-        "recommended"
-      ],
-      "web_name": "Garnacho"
-    },
-    {
-      "name": "Danny Welbeck",
-      "summaries": [
-        "Sam Bonfield highlights Welbeck's outstanding performance and potential as a budget option.",
-        "Julien Laurens also emphasizes his surprise at Welbeck's effective play, suggesting he could be a valuable differential."
-      ],
-      "tags": [
-        "recommended",
         "budget"
       ],
-      "web_name": "Welbeck"
+      "web_name": "Robinson"
     },
     {
-      "name": "Kai Havertz",
-      "summaries": [
-        "Sam Bonfield acknowledges Havertz's strong performance in his first game and sees potential for future games.",
-        "Julien Laurens agrees with Bonfield about Havertz’s strong start."
-      ],
       "tags": [
+        "unsure",
         "recommended"
       ],
-      "web_name": "Havertz"
-    },
-    {
-      "name": "Mohamed Salah",
-      "summaries": [
-        "Julien Laurens discusses Salah's performance and fears not having him in their teams, suggesting he's a must-have.",
-        "Sam Bonfield concurs and emphasizes that captaining Salah is also a wise choice given Liverpool's fixtures."
-      ],
-      "tags": [
-        "top",
-        "recommended"
-      ],
-      "web_name": "M.Salah"
-    },
-    {
-      "name": "Jamie Vardy",
-      "summaries": [
-        "Julien Laurens suggests Vardy as a differential this week after a successful first game.",
-        "Sam Bonfield expresses surprise at Vardy’s performance and potential but notes the overall risk."
-      ],
-      "tags": [
-        "differential",
-        "recommended"
-      ],
-      "web_name": "Vardy"
-    },
-    {
-      "name": "Phil Foden",
-      "summaries": [
-        "Sam Bonfield raises Foden as a potential captaincy choice if managers do not have Haaland.",
-        "Julien Laurens agrees and discusses the improvement expected from Foden as the season progresses."
-      ],
-      "tags": [
-        "recommended"
-      ],
-      "web_name": "Foden"
-    },
-    {
-      "name": "Cole Palmer",
-      "summaries": [
-        "Sam Bonfield mentions that Palmer is a player to consider but expresses concerns regarding his recent performances.",
-        "Julien Laurens concurs, suggesting managers might transfer him out for better options."
-      ],
-      "tags": [
-        "avoid",
-        "unsure"
-      ],
-      "web_name": "Palmer"
-    },
-    {
-      "name": "Bukayo Saka",
-      "summaries": [
-        "Julien Laurens mentions Saka as a potential captaincy choice against Aston Villa due to his form.",
-        "Sam Bonfield expresses confidence in Saka being a strong option this weekend."
-      ],
-      "tags": [
-        "recommended"
-      ],
-      "web_name": "Saka"
+      "web_name": "Solanki"
     }
+  ],
+  "speakers": [
+    "Kelly Somers",
+    "Julien Laurens",
+    "Sam Bonfield"
   ]
 }
