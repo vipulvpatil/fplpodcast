@@ -5,6 +5,10 @@ import "github.com/vipulvpatil/fplpodcast/internal/model"
 func LoadEpisodes() []model.Episode {
 	return []model.Episode{
 		{
+			Title:    "S7 Ep7: FPL Pod: Salah must-have on Wildcard",
+			AudioUrl: "https://audioboom.com/posts/8565750.mp3?modified=1725453167&amp;sid=5001585&amp;source=rss",
+		},
+		{
 			Title:    "S7 Ep6: FPL Pod: Interesting forward thinking",
 			AudioUrl: "https://audioboom.com/posts/8563096.mp3?modified=1724932792&amp;sid=5001585&amp;source=rss",
 		},
