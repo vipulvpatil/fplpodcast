@@ -1,0 +1,176 @@
+{
+  "players": [
+    {
+      "summaries": [
+        "Kelly Somers: Salah is crucial to have in your team and is on track for another successful season.",
+        "Julien Laurens: Salah is a must-have and will continue to perform consistently throughout the season.",
+        "Sam Bonfield: You have to include Salah if you're wild carding."
+      ],
+      "tags": [
+        "top",
+        "recommended"
+      ],
+      "web_name": "Mohamed Salah"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I would prioritize Flecken because of his upcoming fixtures, despite facing City next.",
+        "Julien Laurens: Flecken can be a great 4.5 option due to Brentford's good fixtures after their tough start.",
+        "Kelly Somers: Flecken's performances make him a good choice for understanding Brentford's defense."
+      ],
+      "tags": [
+        "recommended",
+        "budget"
+      ],
+      "web_name": "Mark Flekken"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Raya is the best option as a keeper if you want to spend more for safety in points.",
+        "Julien Laurens: I would also recommend Raya for his reliability and defensive capabilities.",
+        "Kelly Somers: Raya's involvement in a solid Arsenal defense makes him a worthy pick."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "David Raya"
+    },
+    {
+      "summaries": [
+        "Kelly Somers: Trent is a top contender for defenders this season due to Liverpool's clean sheets.",
+        "Julien Laurens: Trent, Van Dijk, and Robertson are currently the best defenders due to their performances.",
+        "Sam Bonfield: Having Trent is essential for any wild card team considering his attacking threat."
+      ],
+      "tags": [
+        "top",
+        "recommended"
+      ],
+      "web_name": "Trent Alexander-Arnold"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Wissa has surprised many with his points early this season.",
+        "Julien Laurens: Wissa is showing promise and could continue scoring given Brentford's attack.",
+        "Kelly Somers: Wissa's form is impressive, but I think consistency could be an issue."
+      ],
+      "tags": [
+        "recommended",
+        "differential"
+      ],
+      "web_name": "Yoane Wissa"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I’m planning to include Gvardiol as he's been a big disappointment.",
+        "Julien Laurens: Gvardiol has hardly made an impact so switching him out is wise."
+      ],
+      "tags": [
+        "avoid",
+        "unsure"
+      ],
+      "web_name": "Gvardiol"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I would have Eze in my team as he offers a good return.",
+        "Julien Laurens: Eze has been performing well and is undervalued."
+      ],
+      "tags": [
+        "recommended",
+        "differential"
+      ],
+      "web_name": "Eberechi Eze"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Watkins has been struggling but is worth keeping based on potential.",
+        "Julien Laurens: Watkins is a solid pick, but you could also consider other forwards like Havertz."
+      ],
+      "tags": [
+        "recommended",
+        "unsure"
+      ],
+      "web_name": "Ollie Watkins"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: I would definitely have an Arsenal defender, like Saliba, if I was wild carding right now.",
+        "Julien Laurens: Arsenal has been strong defensively, making their defenders good picks."
+      ],
+      "tags": [
+        "top",
+        "recommended"
+      ],
+      "web_name": "William Saliba"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: I would go for Trent, Robertson, and Virgil as the three best defenders right now."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Andrew Robertson"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Havertz looks promising with the way he's playing lately.",
+        "Julien Laurens: I would definitely take Havertz in my squad for the upcoming matches."
+      ],
+      "tags": [
+        "recommended",
+        "top"
+      ],
+      "web_name": "Kai Havertz"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Erling Haaland is a no-brainer and essential to have in any squad right now.",
+        "Sam Bonfield: You absolutely need to get him, he’s in incredible form."
+      ],
+      "tags": [
+        "top",
+        "recommended"
+      ],
+      "web_name": "Erling Haaland"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Virgil and Robertson are great picks if you want Liverpool coverage, both are performing well.",
+        "Sam Bonfield: Absolutely expect them to keep doing well given their low price and high output."
+      ],
+      "tags": [
+        "top",
+        "recommended"
+      ],
+      "web_name": "Virgil van Dijk"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Dean Henderson is a frustrating pick. I’d like a new goalkeeper.",
+        "Julien Laurens: It’s not just you, many feel the same way about Henderson."
+      ],
+      "tags": [
+        "avoid",
+        "unsure"
+      ],
+      "web_name": "Dean Henderson"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Isak is a player I can see being effective throughout the season and has good fixtures ahead.",
+        "Julien Laurens: Isak will eventually have his chances and is worth keeping an eye on."
+      ],
+      "tags": [
+        "unsure",
+        "recommended"
+      ],
+      "web_name": "Alexander Isak"
+    }
+  ],
+  "speakers": [
+    "Kelly Somers",
+    "Sam Bonfield",
+    "Julien Laurens"
+  ]
+}
