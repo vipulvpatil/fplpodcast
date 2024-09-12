@@ -17,7 +17,7 @@ func GetAnalysis(transcript string) (string, error) {
 		Temperature: 0,
 		MaxTokens:   16383,
 		Messages: []ai.ChatCompletionMessage{
-			ai.ChatCompletionMessage{
+			{
 				Role:    "user",
 				Content: fmt.Sprintf("%s\n%s\n%s", PROMPT_START, transcript, PROMPT_END),
 			},
