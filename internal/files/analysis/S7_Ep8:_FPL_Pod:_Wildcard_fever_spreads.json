@@ -1,0 +1,139 @@
+{
+  "players": [
+    {
+      "summaries": [
+        "Julien Laurens: Mohamed Salah is a must-have this week after a great performance for Egypt.",
+        "Kelly Somers: Salah has been on excellent form with Liverpool, making him indispensable."
+      ],
+      "tags": [
+        "top"
+      ],
+      "web_name": "M.Salah"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Bukayo Saka is being sacrificed for Salah, but he could perform against tough opponents.",
+        "Sam Bonfield: Saka's record against Spurs is impressive, making his sale a risky move."
+      ],
+      "tags": [
+        "unsure",
+        "avoid"
+      ],
+      "web_name": "Saka"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Kai Havertz has been discussed as a suitable alternative; however, his deeper role might limit his scoring opportunities.",
+        "Sam Bonfield: If Odegaard is out, Havertz may not be as effective as a forward."
+      ],
+      "tags": [
+        "unsure",
+        "avoid"
+      ],
+      "web_name": "Havertz"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Alexander Isak looks promising, especially after scoring for Sweden, but his price drop needs monitoring.",
+        "Sam Bonfield: Holding onto Isak may be wise due to favorable fixtures ahead."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Isak"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Playing a wild card is popular right now, especially with so many fixtures to come.",
+        "Julien Laurens: Many are moving from Isak to cheaper options to get Salah."
+      ],
+      "tags": [
+        "recommended",
+        "budget"
+      ],
+      "web_name": "Joao Pedro"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Luis Diaz is a strong player to consider this week with favorable matchups for Liverpool.",
+        "Julien Laurens: Diaz can cover for Salah; he’s been performing well despite international duty."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Luis Díaz"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Andy Robertson could be a decent option as a defender for Liverpool, especially against Forest.",
+        "Julien Laurens: If you can't afford Trent, then Robertson is a sound pick."
+      ],
+      "tags": [
+        "recommended",
+        "budget"
+      ],
+      "web_name": "Robertson"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: You should consider Onyeka as a budget midfielder, especially in good form now.",
+        "Julien Laurens: Onana is another option; he's affordable and looked good in previous matches."
+      ],
+      "tags": [
+        "budget"
+      ],
+      "web_name": "Onana"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Mitoma is on a good run and could be a strong differential pick.",
+        "Sam Bonfield: Mitoma's form and the upcoming fixtures make him worth considering."
+      ],
+      "tags": [
+        "differential"
+      ],
+      "web_name": "Mitoma"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Nico Jackson has performed moderately well, but there's room for improvement.",
+        "Sam Bonfield: Jackson has potential but is a bit hit or miss based on previous performances."
+      ],
+      "tags": [
+        "unsure"
+      ],
+      "web_name": "Nico Jackson"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: It's brave to sell Watkins ahead of an easy fixture against Everton.",
+        "Julien Laurens: Watkins has been underperforming but could bounce back."
+      ],
+      "tags": ["unsure"],
+      "web_name": "Watkins"
+    },
+    {
+      "summaries": [
+        "Julien Laurens: Nico Jackson could do well with good fixtures coming up; he might not be reliable.",
+        "Sam Bonfield: If anyone looks at him, he could be a good pick, but he's inconsistent."
+      ],
+      "tags": ["differential"],
+      "web_name": "Nico Jackson"
+    },
+    {
+      "summaries": [
+        "Sam Bonfield: Semenyo is emerging as a popular choice due to recent performances and a favorable price.",
+        "Julien Laurens: Semenyo's team setup is appealing and could bring good returns."
+      ],
+      "tags": [
+        "recommended"
+      ],
+      "web_name": "Semenyo"
+    }
+  ],
+  "speakers": [
+    "Kelly Somers",
+    "Sam Bonfield",
+    "Julien Laurens"
+  ]
+}

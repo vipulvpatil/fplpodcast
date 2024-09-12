@@ -26,7 +26,7 @@ Join the FPL Pod team's mini-league: ib3wlk
 <atom:link href="https://audioboom.com/channels/5001585-fpl-pod" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5001585.rss" rel="self" type="application/rss+xml" />
-<pubDate>Wed, 04 Sep 2024 12:32:28 +0000</pubDate>
+<pubDate>Wed, 11 Sep 2024 15:23:36 +0000</pubDate>
 <language>en</language>
 <image>
   <url>https://audioboom.com/i/39462877/s=1400x1400/el=1/rt=fill.jpg</url>
@@ -57,6 +57,45 @@ Join the FPL Pod team's mini-league: ib3wlk
 <itunes:new-feed-url>https://audioboom.com/channels/5001585.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>S7 Ep8: FPL Pod: Wildcard fever spreads</title>
+  <link>https://audioboom.com/posts/8569291</link>
+  <itunes:episode>8</itunes:episode>
+  <itunes:title>FPL Pod: Wildcard fever spreads</itunes:title>
+  <itunes:season>7</itunes:season>
+  <enclosure url="https://audioboom.com/posts/8569291.mp3?modified=1726068230&amp;sid=5001585&amp;source=rss" length="42885986" type="audio/mpeg" />
+  <media:content url="https://audioboom.com/posts/8569291.mp3?modified=1726068230&amp;sid=5001585&amp;source=rss" type="audio/mpeg" medium="audio" duration="2680" lang="en-GB" fileSize="42885986" />
+  <itunes:image href="https://audioboom.com/i/40882043/s=1400x1400/el=1/rt=fill.png" />
+  <media:content url="https://audioboom.com/i/40882043/s=1400x1400/el=1/rt=fill.png" type="image/png" medium="image"  />
+  <itunes:duration>2680</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description><![CDATA[<div>With the first international break of the season over plenty of managers have opted to activate their Wildcard, including the FPL Pod's very own Julien Laurens.<br>
+<br>
+Kelly Somers and Sam Bonfield dissect Juls’ Wildcard as they also take a look at the popular transfers made by managers and weigh-up a tough week for captaincy in Gameweek 4.<br>
+<br>
+LISTEN <br>
+* A big week for Wildcards (00m 53s)<br>
+* International impact (13m 29s)<br>
+* Is selling Saka sensible? (20m 59s)<br>
+* Make a plan for Arsenal (23m 10s)<br>
+* Differential discussion (27m 45s)<br>
+* Haaland v Salah captaincy (36m 08s)<br>
+<br>
+Win our FPL Pod mini-league at the end of the season and get an FPL bundle: q7yco0<br>
+<br>
+Follow <a href="https://twitter.com/OfficialFPL">@OfficialFPL on X</a> and <a href="https://www.facebook.com/fantasypremierleague">Facebook<br>
+</a><a href="https://twitter.com/KellySomers">Follow Kelly on X</a><br>
+<a href="https://twitter.com/FPLFamily">Follow FPL Family on X<br>
+</a><a href="https://twitter.com/LaurensJulien">Follow Julien on X</a>
+</div>
+]]></description>
+  <pubDate>Wed, 11 Sep 2024 15:23:36 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2024-09-11:/posts/8569291</guid>
+  <itunes:author>Premier League </itunes:author>
+  <dc:creator>Premier League </dc:creator>
+  <media:rights status="userCreated" />
+</item>
 <item>
   <title>S7 Ep7: FPL Pod: Salah must-have on Wildcard</title>
   <link>https://audioboom.com/posts/8565750</link>
